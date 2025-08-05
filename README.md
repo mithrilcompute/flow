@@ -261,10 +261,10 @@ flow mount vol_abc123 task_xyz789
 * **Google Colab Integration** – Connect notebooks to GPU instances
 * **Private Registries** – ECR/GCR with auto-authentication
 
-**Full API Documentation**: [github.com/mithril-ai/flow-sdk](https://github.com/mithril-ai/flow-sdk)
+**Full API Documentation**: [docs.mithril.ai](https://docs.mithril.ai)
 
 ## Further Reading
 
-* [Restoring the Promise of Public Cloud for AI](https://mlfoundry.com/blog/restoring-the-promise-of-the-public-cloud-for-ai)
-* [Introducing Foundry](https://mlfoundry.com/blog/introducing-foundry)
+* [Restoring the Promise of Public Cloud for AI](https://mithril.ai/blog/restoring-the-promise-of-the-public-cloud-for-ai)
+* [Introducing Mithril`](https://mithril.ai/blog/introducing-foundry)
 * [Spot Auction Mechanics](https://docs.mithril.ai/compute-and-storage/spot-bids#spot-auction-mechanics)
