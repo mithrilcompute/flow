@@ -7,6 +7,9 @@ If you’ve encountered a bug, have a feature request, or want to share feedback
 
 # Flow CLI & SDK
 
+![PyPI - Version](https://img.shields.io/pypi/v/flow-compute) ![Static Badge](https://img.shields.io/badge/Docs-blue?link=https%3A%2F%2Fdocs.mithril.ai%2Fcli-and-sdk%2Fquickstart)
+
+
 **Python → Petaflops in 15 seconds.**
 Flow procures GPUs through Mithril, spins InfiniBand-connected instances, and runs your workloads—zero friction, no hassle.
 
